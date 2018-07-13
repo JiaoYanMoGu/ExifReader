@@ -3,6 +3,6 @@
 Simple practice code to get camera focal length from exif information,use some code of Theia and colmap.
 
 
-##Required
+## Required
 OpenImageIO
 c++11
